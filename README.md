@@ -1,4 +1,4 @@
-# how to vuln nuglox insecure revival!!!
+# how to vuln nuglox insecure!!!
 
 **Purpose:** This repository documents and demonstrates common web security issues found in a trading module from a real project (Nuglox).  
 This code is provided by the repository owner for educational and defensive purposes only.
