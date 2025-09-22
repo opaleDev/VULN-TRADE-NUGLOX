@@ -8,3 +8,7 @@ Scope:
 The code shows typical pitfalls found in trade / item transfer flows.
 Included: the original trade.php (vulnerable example), and an improved trade_secure.php with mitigations.
 dont vuln it we will do it
+
+ENJOYYY BY ROOTLESS OPALEDEV AND 4GLA!!!!!
+
+gz ; https://github.com/TrapzOfficial/
